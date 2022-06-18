@@ -1,0 +1,5 @@
+FAS_frame/*
+test_data/*
+testset_facemask/*
+yolov5n.pt
+yolov2s.pt

@@ -1,0 +1,12 @@
+Cython>=0.29.0
+protobuf==3.20.1
+mxnet==1.9.1
+scikit-learn==1.1.1
+tensorflow==2.8.1
+mediapipe==0.8.10
+onnxruntime==1.11.1
+matplotlib
+numpy==1.22.4
+opencv-python>=4.5.4
+pyyaml
+pynput

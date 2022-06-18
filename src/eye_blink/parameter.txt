@@ -1,0 +1,3 @@
+inputsize = 32
+epochs = 40
+batchsize = 16
